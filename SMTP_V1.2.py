@@ -2,7 +2,7 @@
 #AUTHOR: Mike Will  A.K.A : Anon_911
 
 
-## if u try to edit credits NIK MOK / Fuck ur mom / Puta madre / nique ta mere / what else ?
+## if u try to edit credits F*ck u / P*ta madre / n*que ta mere / what else ?
 
 
 import smtplib,sys,os,tkMessageBox,Tkinter,time,threading,socket
